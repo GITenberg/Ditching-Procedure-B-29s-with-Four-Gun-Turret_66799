@@ -1,0 +1,29 @@
+_repo: Ditching-Procedure-B-29s-with-Four-Gun-Turret_66799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Army Air Forces
+    aliases:
+    - USAAF (United States. Army Air Forces)
+    - AAF (United States. Army Air Forces)
+    - United States. War Department. Army Air Forces
+    - U.S.A.A.F. (United States. Army Air Forces)
+    - Army Air Forces (U.S.)
+    gutenberg_agent_id: '53984'
+    url: http://www.gutenberg.org/2009/agents/53984
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Army_Air_Forces
+description: ''
+gutenberg_issued: '2021-11-23'
+identifiers:
+  gutenberg: '66799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UG'
+- !lcc 'TL'
+- !lcsh 'B-29 (Bomber) -- Handbooks, manuals, etc.'
+- GITenberg
+title: Ditching Procedure, B-29s with Four-Gun Turret
+url: http://www.gutenberg.org/ebooks/66799
